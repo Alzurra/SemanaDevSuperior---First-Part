@@ -1,6 +1,6 @@
 # SemanaDevSuperior_First_Part
 
-<h1>Semana Spring React</h1>
+<h2>Semana Spring React</h2>
 
 <div>
 
